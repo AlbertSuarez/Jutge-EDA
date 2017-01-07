@@ -1,0 +1,12 @@
+subconjunt 1: {hola,adeu}
+subconjunt 2: {}
+
+subconjunt 1: {hola}
+subconjunt 2: {adeu}
+
+subconjunt 1: {adeu}
+subconjunt 2: {hola}
+
+subconjunt 1: {}
+subconjunt 2: {hola,adeu}
+
