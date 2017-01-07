@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+# Jetbrains
+*.iml
+.idea/
+cmake-build-debug/
