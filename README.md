@@ -12,6 +12,6 @@ In this repository, there will be most of problems of the Jutge lists of Data St
 
 Thank you and share it!
 
-Developed with love from Barcelona by **Albert Suàrez** (*EDA's teacher*).
+Developed with love from Barcelona by **Albert Suàrez** (*EDA's teacher at ASES Academia*).
 
 ![](https://exam.jutge.org/ico/jutge.png)
