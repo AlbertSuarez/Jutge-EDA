@@ -1,0 +1,10 @@
+OUTPUT o END
+INPUT a b END
+AND c a b
+NOT o c
+END
+F F
+F T
+T F
+T T
+T T

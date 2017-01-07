@@ -1,0 +1,11 @@
+OUTPUT o1 o2 END
+INPUT a1 a2 END
+AND o1 a1 a2
+NOT c1 a1
+NOT c2 a2
+AND c3 c1 c2
+OR o2 o1 c3
+END
+F F
+F T
+T T
