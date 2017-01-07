@@ -1,0 +1,15 @@
+A
+S 10    A
+S -7    A
+S 20    A
+I 3     A
+D 15    A
+R       A
+S 30    A
+D 37    R     A
+R       A
+R       I 1
+A
+R
+D 3
+S 4     A
